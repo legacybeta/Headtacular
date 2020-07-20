@@ -1,0 +1,16 @@
+{
+  "name": "headtacular",
+  "version": "1.0.0",
+  "description": "[![Bower version](https://badge.fury.io/bo/headtacular.svg)](http://badge.fury.io/bo/headtacular)",
+  "main": "jquery.headtacular.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legacybeta/Headtacular.git"
+  },
+  "author": "Mike Zarandona <mike@zarandona.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legacybeta/Headtacular/issues"
+  },
+  "homepage": "https://github.com/legacybeta/Headtacular#readme"
+}
